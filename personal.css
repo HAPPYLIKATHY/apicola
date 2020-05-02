@@ -1,0 +1,56 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(46,105,163);
+  font-size: 32px;
+}
+
+h2 {
+	font-size: 56px;
+}
+
+
+.inicioimagen {
+  background-image: url("img/honeywax.jpg");
+  background-size: cover;
+  color: #ffffff;
+	padding: 250px;
+	margin: 15px;
+}
+
+.containall {
+	padding: 50px;
+	margin: 15px;
+}
+
+.imagenproductos {
+	background-image: url('img/beeorangebackcrop.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+p {
+	font-size: 2rem;
+}
+
+.py-2 {
+ /* color: #F7BC1A;*/
+  padding-top: 0.5rem !important;
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 1.25em;
+	text-decoration: none;
+}
+
+#footer {
+  font-size: 0.75rem;
+}
